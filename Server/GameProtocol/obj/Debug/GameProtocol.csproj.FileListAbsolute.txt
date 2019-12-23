@@ -1,0 +1,11 @@
+D:\Manew\Client\Assets\Plugins\GameProtocol.dll
+D:\Manew\Client\Assets\Plugins\GameProtocol.pdb
+D:\Manew\Server\GameProtocol\obj\Debug\GameProtocol.dll
+D:\Manew\Server\GameProtocol\obj\Debug\GameProtocol.pdb
+D:\Manew\Server\GameProtocol\obj\Debug\GameProtocol.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Client\Assets\Plugins\GameProtocol.dll
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Client\Assets\Plugins\GameProtocol.pdb
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\GameProtocol\obj\Debug\GameProtocol.csprojAssemblyReference.cache
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\GameProtocol\obj\Debug\GameProtocol.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\GameProtocol\obj\Debug\GameProtocol.dll
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\GameProtocol\obj\Debug\GameProtocol.pdb

@@ -1,0 +1,4 @@
+10:53:30.32     错误请求:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NetFrame.auto.SocketModel.GetMessage[T]()
+10:58:48.02     错误请求:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NetFrame.auto.SocketModel.GetMessage[T]()

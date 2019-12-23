@@ -1,0 +1,5 @@
+D:\Manew\Server\Server\bin\Release\Server.exe.config
+D:\Manew\Server\Server\bin\Release\Server.exe
+D:\Manew\Server\Server\bin\Release\Server.pdb
+D:\Manew\Server\Server\obj\Release\Server.exe
+D:\Manew\Server\Server\obj\Release\Server.pdb

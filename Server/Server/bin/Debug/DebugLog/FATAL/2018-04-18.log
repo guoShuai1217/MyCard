@@ -1,0 +1,68 @@
+*************** 12:54:49.02 ***************
+Sender:名称:Server.exe
+无上下文策略。
+
+Args:System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Server.Program.<>c__DisplayClass0_0.<Main>b__3() 位置 D:\Manew\Server\Server\Program.cs:行号 57
+   在 ServerTools.TimeTaskModel.Run() 位置 D:\Manew\Server\ServerTools\time\TimeTaskModel.cs:行号 39
+   在 ServerTools.ScheduleUtil.CallBack() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 86
+   在 ServerTools.ScheduleUtil.timeStart() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 44
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+*************** 12:54:59.95 ***************
+Sender:名称:Server.exe
+无上下文策略。
+
+Args:System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Server.Program.<>c__DisplayClass0_0.<Main>b__3() 位置 D:\Manew\Server\Server\Program.cs:行号 57
+   在 ServerTools.TimeTaskModel.Run() 位置 D:\Manew\Server\ServerTools\time\TimeTaskModel.cs:行号 39
+   在 ServerTools.ScheduleUtil.CallBack() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 86
+   在 ServerTools.ScheduleUtil.timeStart() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 44
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+*************** 12:55:10.79 ***************
+Sender:名称:Server.exe
+无上下文策略。
+
+Args:System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Server.Program.<>c__DisplayClass0_0.<Main>b__3() 位置 D:\Manew\Server\Server\Program.cs:行号 57
+   在 ServerTools.TimeTaskModel.Run() 位置 D:\Manew\Server\ServerTools\time\TimeTaskModel.cs:行号 39
+   在 ServerTools.ScheduleUtil.CallBack() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 86
+   在 ServerTools.ScheduleUtil.timeStart() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 44
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+*************** 12:55:21.65 ***************
+Sender:名称:Server.exe
+无上下文策略。
+
+Args:System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 Server.Program.<>c__DisplayClass0_0.<Main>b__3() 位置 D:\Manew\Server\Server\Program.cs:行号 57
+   在 ServerTools.TimeTaskModel.Run() 位置 D:\Manew\Server\ServerTools\time\TimeTaskModel.cs:行号 39
+   在 ServerTools.ScheduleUtil.CallBack() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 86
+   在 ServerTools.ScheduleUtil.timeStart() 位置 D:\Manew\Server\ServerTools\time\ScheduleUtil.cs:行号 44
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()

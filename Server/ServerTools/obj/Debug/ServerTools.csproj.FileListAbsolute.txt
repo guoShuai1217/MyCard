@@ -1,0 +1,10 @@
+D:\Manew\Server\ServerTools\bin\Debug\ServerTools.dll
+D:\Manew\Server\ServerTools\bin\Debug\ServerTools.pdb
+D:\Manew\Server\ServerTools\obj\Debug\ServerTools.dll
+D:\Manew\Server\ServerTools\obj\Debug\ServerTools.pdb
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\bin\Debug\ServerTools.dll
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\bin\Debug\ServerTools.pdb
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\obj\Debug\ServerTools.csprojAssemblyReference.cache
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\obj\Debug\ServerTools.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\obj\Debug\ServerTools.dll
+F:\BaiduNetdiskDownload\棋牌实战视频教程【第一季】\资源\Server\ServerTools\obj\Debug\ServerTools.pdb

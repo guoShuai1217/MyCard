@@ -1,0 +1,23 @@
+*************** 10:53:30.33 ***************
+Sender:名称:Server.vshost.exe
+无上下文策略。
+
+Args:System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Server.cache.MatchCache.IsFinsih(Int32 roomid) 位置 D:\Manew\Server\Server\cache\MatchCache.cs:行号 116
+   在 Server.cache.MatchCache.AddMatch(Int32 userid, GameType roomtype, ResponseStartMatchInfo& info) 位置 D:\Manew\Server\Server\cache\MatchCache.cs:行号 106
+   在 Server.business.MatchBiz.StartMatch(UserToken token, GameType type) 位置 D:\Manew\Server\Server\business\MatchBiz.cs:行号 55
+   在 Server.logic.match.MatchHandler.MessageReceive(UserToken token, SocketModel message) 位置 D:\Manew\Server\Server\logic\match\MatchHandler.cs:行号 31
+   在 Server.logic.HandlerCenter.MessageReceive(UserToken token, Object message) 位置 D:\Manew\Server\Server\logic\HandlerCenter.cs:行号 67
+   在 NetFrame.UserToken.onData()
+   在 NetFrame.UserToken.receive(Byte[] buff)
+   在 NetFrame.ServerStart.ProcessReceive(SocketAsyncEventArgs e)
+   在 NetFrame.ServerStart.IO_Comleted(Object sender, SocketAsyncEventArgs e)
+   在 System.Net.Sockets.SocketAsyncEventArgs.OnCompleted(SocketAsyncEventArgs e)
+   在 System.Net.Sockets.SocketAsyncEventArgs.ExecutionCallback(Object ignored)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.Sockets.SocketAsyncEventArgs.FinishOperationSuccess(SocketError socketError, Int32 bytesTransferred, SocketFlags flags)
+   在 System.Net.Sockets.SocketAsyncEventArgs.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   在 System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)
